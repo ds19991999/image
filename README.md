@@ -1,2 +1,2 @@
 # githubimg
-存放图片
+该仓库作为github图床使用
